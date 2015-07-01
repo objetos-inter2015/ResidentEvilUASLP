@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=dire\ pod
+comment0.target=bala(int,\ int)
+comment0.text=\r\n\ @param\ dire\ direccion\ de\ la\ bala.\r\n\ @param\ pod\ poder\ de\ la\ bala.\r\n\ Dependiendo\ de\ la\ direccion\ se\ cambia\ de\ imagen.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ super.act();\r\n
+numComments=2

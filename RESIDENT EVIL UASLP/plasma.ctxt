@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=pow\ an\ al
+comment0.target=plasma(int,\ int,\ int)
+comment0.text=\r\n\ @param\ pow\ poder\ del\ plasma.\r\n\ @param\ an\ ancho\ de\ la\ imagen.\r\n\ @param\ al\ alto\ de\ la\ imagen.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ super.act();\r\n
+numComments=2

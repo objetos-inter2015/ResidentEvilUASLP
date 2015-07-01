@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=modo
+comment0.target=plasma3(int)
+comment0.text=\r\n\ @param\ modo\ direccion\ en\ la\ que\ apunta\ el\ arma\ tierra-aire.\r\n\ dependiendeo\ del\ modo\ se\ cambia\ la\ imagen.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ mov()
+comment2.text=\r\n\ movimiento\ del\ plasma\ dependiendeo\ su\ direccion.\r\n
+numComments=3

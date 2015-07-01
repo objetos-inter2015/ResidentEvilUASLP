@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ llama\ al\ metodo\ teDisparoTorre().\r\n
+comment1.params=
+comment1.target=void\ teDisparoTorre()
+comment1.text=\r\n\ Verifica\ si\ a\ la\ torre\ le\ llego\ un\ disparo\ de\ plasma\ y\ resta\ vida\ a\ la\ Base.\r\n
+numComments=2

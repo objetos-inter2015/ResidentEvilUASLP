@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=void\ disparo()
+comment1.text=\r\n\ Genera\ los\ plasmas\ que\ se\ disparan\ dependiendo\ de\ la\ direccion\ y\ el\ poder\ de\ cada\ enemigo,\ ademas\ se\ escala\ dependiendo\ de\ la\ pos\ en\ la\ que\ se\ encuentre\ el\ enemigo.\r\n
+comment2.params=
+comment2.target=void\ escalaDisparo()
+comment2.text=\r\n\ Dependiendo\ del\ tama\u00F1o\ del\ enemigo\ se\ escalan\ los\ plasmas\ que\ dispara.\r\n
+comment3.params=imagen1\ imagen2
+comment3.target=void\ mov(java.lang.String,\ java.lang.String)
+comment3.text=\r\n\ Movimietno\ del\ enemigo\ cambiando\ de\ una\ imagen\ a\ otra\ para\ simular\ el\ movimiento.\r\n\ @param\ imagen1\ es\ la\ primera\ imagen\ que\ se\ mostrara\r\n\ @param\ imagen2\ es\ la\ segunda\ imagen\ que\ se\ mostrara.\r\n
+comment4.params=imagen
+comment4.target=void\ muere(java.lang.String)
+comment4.text=\r\n\ Cambia\ la\ imagen\ cuando\ el\ enemigo\ muere,\ espera\ un\ tiempo\ y\ remueve\ el\ objeto\ del\ escenario.\r\n\ @param\ imagen\ es\ la\ imagen\ que\ pondra\ al\ morir.\r\n
+comment5.params=
+comment5.target=void\ teDisparo()
+comment5.text=\r\n\ Verifica\ si\ alguna\ bala\ toca\ al\ enemigo\ y\ le\ resta\ vida.\r\n
+comment6.params=
+comment6.target=void\ tocoMc()
+comment6.text=\r\n\ Verifica\ si\ esta\ tocando\ al\ jugador\ principal.\r\n
+numComments=7

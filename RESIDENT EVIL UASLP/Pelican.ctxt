@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=acti
+comment0.target=Pelican(boolean)
+comment0.text=\r\n\ @param\ acti\ es\ la\ activacion\ de\ si\ el\ pelican\ dispara\ o\ no\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ dependiendo\ si\ el\ disparo\ esta\ activo\ o\ no\ se\ manda\ llamar\ al\ metodo\ disparo.\r\n\ despues\ de\ sierto\ tiempo\ y\ en\ un\ area\ espesifica\ del\ escenario\ se\ general\ las\ entregas.\r\n
+comment2.params=
+comment2.target=void\ disparo()
+comment2.text=\r\n\ genera\ las\ balas\ que\ dispara\ el\ pelican.\r\n
+comment3.params=
+comment3.target=void\ generaEntregas()
+comment3.text=\r\nDependiendo\ de\ los\ tiempos\ se\ genera\ los\ objetos\ masVida\ y\ masMun\ para\ dejar\ caer\ del\ Pelican.\ \r\n
+comment4.params=
+comment4.target=void\ mov()
+comment4.text=\r\n\ Movimiento\ del\ pelican.\r\n
+numComments=5

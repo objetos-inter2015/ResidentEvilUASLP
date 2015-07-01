@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Base()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ manda\ llamar\ los\ metodos\:\r\n\ teDisparo();\r\n\ setVidaBase();\r\n\ imagenBase();\r\n\ Verifica\ si\ la\ vida\ de\ la\ base\ es\ 0\ envia\ el\ mensage\ "Game\ Over\!\!"\ y\ regresa\ al\ menu\ principal.\r\n
+comment2.params=
+comment2.target=void\ imagenBase()
+comment2.text=\r\n\ Este\ metodo\ cambia\ de\ imagen\ de\ la\ base\ cuando\ esta\ se\ desta\ quemando\ para\ simular\ el\ movimiento\ del\ fuego.\r\n
+comment3.params=
+comment3.target=int\ getVidaBase()
+comment3.text=\r\n\ Regresa\ la\ cantidad\ de\ vida\ de\ la\ base\r\n\ @return\ int\r\n
+comment4.params=
+comment4.target=void\ setVidaBase()
+comment4.text=\r\n\ Marca\ en\ el\ counter\ la\ vida\ de\ la\ base\ \r\n
+comment5.params=
+comment5.target=void\ teDisparo()
+comment5.text=\r\n\ Verifica\ si\ te\ la\ base\ recibe\ un\ disparo\ de\ plasma\ y\ resta\ vida.\r\n
+numComments=6

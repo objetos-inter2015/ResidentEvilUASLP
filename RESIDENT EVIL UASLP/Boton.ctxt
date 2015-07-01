@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=num
+comment0.target=Boton(int)
+comment0.text=\r\n\ Dependiendo\ del\ num\ se\ pone\ la\ imagen\ correspondiente.\r\n\ @param\ num\ Numero\ de\ reperencia\ del\ boton\ o\ tipo\ de\ boton.\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

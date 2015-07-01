@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Municion()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Municion\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=int\ getPoder()
+comment2.text=\r\n\ regresa\ el\ poder\ que\ tiene\ la\ municion.\r\n\ @return\ int\ poder\ de\ la\ bala.\r\n
+comment3.params=
+comment3.target=void\ mov()
+comment3.text=\r\n\ mivimiento\ de\ la\ municion\ dependiendo\ la\ direccion\ del\ objeto\ que\ la\ mande\ crear.\r\n
+numComments=4

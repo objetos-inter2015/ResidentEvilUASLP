@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=escala
+comment0.target=Banshee(int)
+comment0.text=\r\n\ @param\ escala\ es\ la\ escala\ del\ enemigo\ dependiendo\ de\ donde\ se\ encuentre\ en\ el\ escenario.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ teDisparoArma()
+comment2.text=\r\n\ Verifica\ si\ lo\ esta\ tocando\ un\ plasma\ del\ arma\ tierra-aire\ y\ resta\ vida..\r\n
+comment3.params=
+comment3.target=void\ disparo()
+comment3.text=\r\n\ genera\ el\ plasma\ a\ disparar.\ \r\n
+numComments=4

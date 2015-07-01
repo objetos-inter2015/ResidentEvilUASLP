@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=escala
+comment0.target=Ghost(int)
+comment0.text=\r\n\ @param\ escala\ es\ la\ escala\ del\ enemigo\ dependiendo\ de\ donde\ se\ encuentre\ en\ el\ escenario.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ Dispara\ despues\ de\ sierto\ tiempo\ y\ a\ cierta\ distancia\ de\ la\ base.\r\n\ Si\ la\ vida\ es\ 0\ llama\ al\ metodo\ muere\ y\ genera\ un\ objeto\ masVida.\r\n\ Si\ se\ encuentra\ a\ mas\ de\ 500\ pixeles\ de\ la\ base\ puede\ moverse.\r\n
+comment2.params=
+comment2.target=int\ escalaMasVida()
+comment2.text=\r\n\ Escala\ el\ objeto\ masVida\ dependiendo\ del\ tama\u00F1o\ de\ la\ imagen\ del\ enemigo.\r\n\ @return\ int\ -\ escala.\r\n
+numComments=3

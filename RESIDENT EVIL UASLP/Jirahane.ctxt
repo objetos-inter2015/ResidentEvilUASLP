@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=escala
+comment0.target=Jirahane(int)
+comment0.text=\r\n\ @param\ escala\ es\ la\ escala\ del\ enemigo\ dependiendo\ de\ donde\ se\ encuentre\ en\ el\ escenario.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ Dispara\ despues\ de\ sierto\ tiempo\ y\ a\ cierta\ distancia\ de\ la\ base.\r\n\ Si\ la\ vida\ es\ 0\ llama\ al\ metodo\ muere.\r\n\ Si\ se\ encuentra\ a\ mas\ de\ 600\ pixeles\ de\ la\ base\ puede\ moverse.\r\n
+numComments=2

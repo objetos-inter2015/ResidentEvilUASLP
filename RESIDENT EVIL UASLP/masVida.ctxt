@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=escala
+comment0.target=masVida(int)
+comment0.text=\r\n\ @param\ escala\ es\ el\ tama\u00F1o\ que\ se\ deve\ de\ ver\ el\ objeto\ dependiendo\ de\ donde\ se\ encuentre.\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

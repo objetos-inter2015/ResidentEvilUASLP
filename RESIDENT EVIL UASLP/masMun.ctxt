@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=escala\ y
+comment0.target=masMun(int,\ int)
+comment0.text=\r\n\ @param\ escala\ es\ el\ tama\u00F1o\ que\ se\ deve\ de\ ver\ el\ objeto\ dependiendo\ de\ donde\ se\ encuentre.\r\n\ @param\ y\ es\ la\ posicion\ en\ y\ a\ la\ que\ debe\ llegar.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ llama\ al\ metodo\ mueve().\r\n
+numComments=2

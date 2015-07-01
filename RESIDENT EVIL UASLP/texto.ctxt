@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=s\ tam
+comment0.target=texto(java.lang.String,\ int)
+comment0.text=\r\n\ crea\ la\ imagen\ con\ el\ texto\ el\ tama\u00F1o\ y\ en\ color\ blanco.\r\n\ @param\ s\ recibe\ la\ cadena\ del\ que\ mostrara\ el\ objeto\ texto.\r\n\ @param\ tam\ es\ el\ tama\u00F1o\ del\ texto.\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2
